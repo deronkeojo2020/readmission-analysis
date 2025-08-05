@@ -1,4 +1,38 @@
-# readmission-analysis
+# 🏥 Patient Readmission Analysis
+
+## 📌 Project Overview
+This project explores hospital data to identify the key factors that contribute to patient readmissions within 30 days. The goal is to provide actionable insights that hospitals can use to reduce avoidable readmissions.
+
+## 🧰 Tools Used
+- Python (pandas, matplotlib, seaborn)
+- Google Colab
+- Tableau Public (for visualization)
+
+## 🧪 Dataset
+- **Source:** UCI Diabetes Readmission Dataset  
+- [Link to dataset](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
+
+## 🔍 Key Steps
+1. Data Cleaning: Removed irrelevant columns, handled missing values
+2. Exploratory Data Analysis: Analyzed age, diagnoses, hospital stay, medications
+3. Visualization: Created charts showing patterns in readmissions
+4. Recommendations: Suggested actions based on findings
+
+## 📈 Sample Insights
+- Patients aged 70+ had the highest readmission risk
+- Longer hospital stays slightly correlated with higher readmission
+- Some medications and diagnoses were strongly associated with readmission
+
+## 📎 Files Included
+- `notebook.ipynb`: Python analysis notebook (Google Colab)
+- `cleaned_data.csv`: Cleaned version of the dataset
+- `dashboard_link.txt`: Link to Tableau dashboard (optional)
+
+## ✅ Conclusion
+This project simulates a real-world healthcare analysis task and demonstrates core data analyst skills — data wrangling, visualization, and business interpretation.
+
+
+
 # 📝 Patient Readmission Analysis – Portfolio Project Summary
 
 **Project Goal:**  
